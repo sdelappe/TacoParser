@@ -1,6 +1,6 @@
-# Taco Parser Kata
+# Taco Parser
 
-An exercise in geolocation, csv parsing, and logging
+An exercise in geolocation and csv parsing
 
 ## Kata Overview
 
