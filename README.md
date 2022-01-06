@@ -4,4 +4,6 @@ An exercise in geolocation and csv parsing. The application parses through infor
 
 By using the GeoCoordinatePortable class, the application calculates the distance between all locations on the CSV file and returns the two that are farthest apart.
 
+Test Driven Development using xUnit ensures that missing or invalid data is handled correctly.
+
 Written in C# on .NET Core.
